@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color: blue; */
+}
+.footer_bottom{
+    position: absolute;
+    bottom: 0px;
+    /* border: 2px solid red; */
+    width: 100%;
+  }
+
+body{
+    overflow-x: hidden;
+    
+}
+.card-img-top{
+    width: 100%;
+    height: 100px;
+    /* object-fit: contain; */
+   
+}
+img .logo {
+    width:"4%";
+     height:"3%";
+}
+.admin_image{
+    width: 100px;
+    margin-left: 20px;
+    object-fit: contain;
+}
+.my_buttons{
+    border: none;
+    margin-left: 60px;
+}
+.heading{
+    margin-left: 500px;
+}
+
+.cart_image{
+    background-color: red;
+}

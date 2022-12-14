@@ -1,0 +1,13 @@
+.cardred .card_bodyred:hover img{
+    /* border: 2px solid red; */
+    -webkit-transform: scaleX(-1);
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+    transition: 0.4s all linear;
+    cursor: pointer;
+  }
+
+
+
+  /* card width object fit */

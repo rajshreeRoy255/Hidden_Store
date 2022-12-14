@@ -1,0 +1,27 @@
+/* product_image_size_fit */
+  /* card width object fit */
+
+
+  .card-img-top{
+    width: 80%;
+    /* object-fit: contain; */
+    height: 180px;
+  }
+.card_bodyred{
+/* border: 2px  solid blue; */
+box-shadow:  3px 5px 10px 7px #dfe6e9;
+width: 100%;
+}
+.card_bodyred img{
+/* border: 2px solid red; */
+width: 100%;
+padding-top: 19px;
+margin: 0px;
+text-align: center;
+margin-left: 34px;
+margin-right: 0px;
+
+}
+/* .letsC{
+width: 100%;
+} */

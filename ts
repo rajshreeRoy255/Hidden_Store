@@ -1,0 +1,1 @@
+<input type='submit' value='Remove cart' class='bg-info py-2 px-3 border-0 mx-3' name='remove_cart'>
